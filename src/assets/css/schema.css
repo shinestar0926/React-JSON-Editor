@@ -1,0 +1,34 @@
+.input_menu .MuiOutlinedInput-input {
+    padding: 3.5px 10px;
+}
+.input_menu .MuiInputBase-input {
+    width: 100px;
+}
+.input_menu .MuiOutlinedInput-root {
+    border-radius: 0px;
+    border-left: 1px solid grey;
+}
+
+.input_menu .MuiFilledInput-input {
+    padding: 3.5px 16px;
+    border-left: 1px solid grey;
+}
+.input_menu .MuiFilledInput-root {
+    background-color: white;
+};
+.input_menu .MuiInputBase-input {
+    width: 100%;
+};
+.warningMsg {
+    color: red;
+}
+.MuiTreeItem-label {
+    width: auto !important;
+}
+/* .MuiTreeItem-root.Mui-selected > .MuiTreeItem-content .MuiTreeItem-label:hover, .MuiTreeItem-root.Mui-selected:focus > .MuiTreeItem-content .MuiTreeItem-label {
+    background: transparent !important;    background-color: rgba(63, 81, 181, 0.12);
+}
+.MuiTreeItem-root.Mui-selected > .MuiTreeItem-content .MuiTreeItem-label {
+    background: transparent !important;
+    background-color: rgba(63, 81, 181, 0.08);
+} */
